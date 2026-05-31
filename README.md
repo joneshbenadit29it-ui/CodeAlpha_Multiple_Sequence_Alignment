@@ -1,6 +1,6 @@
 🧬 CodeAlpha: Multiple Sequence Alignment (MSA) 
 
-Welcome to my submission for **Task 2: Multiple Sequence Alignment** as part of my Bioinformatics Internship at **@CodeAlpha**! This project automates the retrieval of protein sequences from biological databases and analyzes evolutionary conservation patterns across species.
+Welcome to my submission for **Task 13: Multiple Sequence Alignment** as part of my Bioinformatics Internship at **@CodeAlpha**! This project automates the retrieval of protein sequences from biological databases and analyzes evolutionary conservation patterns across species.
 
 ---
 
